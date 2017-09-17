@@ -1,6 +1,6 @@
 ---
 name:
-   first: Abhinav
-   last: Gupta
-email: abhinavg@nyu.edu
-leaderboard: backpropper
+   first: Ramya
+   last: Vunikili
+email: rdv253@nyu.edu
+leaderboard: thecuriousvector
