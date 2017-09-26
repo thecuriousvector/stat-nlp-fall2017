@@ -1,4 +1,3 @@
-
 Example: A-Fil 25 guess=drug gold=drug confidence=0.8981335049632138
 Example: Abbokinase guess=drug gold=drug confidence=0.475516536651533
 Example: Accolate guess=drug gold=drug confidence=0.9071133973027719
